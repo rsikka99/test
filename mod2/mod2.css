@@ -1,0 +1,26 @@
+<html>
+
+<head>
+	<link rel="stylesheet" type="text/css" href="mod2.css">
+</head>
+
+<body>
+
+	<h1>Functional Neuroimaging Techniques</h1>
+
+	<section>
+		<h2>fMRI</h2>
+		Functional magnetic resonance imaging or functional MRI (fMRI) produces images that represent increased oxygen flow in response energy needs of specific brain regions. Oxygenated blood has magnetic properties due to its high iron content making it sensitive to magnetic fields emitted from protons in the MRI. Deoxygenated blood is not sensitive to magnetic fields; as such brightly light portions of the fMRI reflect high-energy consumption. The job of fMRI is to record this BOLD signal.
+	</section>
+
+	<section>
+		<h2>MEG</h2>
+		Magnetoencephalography (MEG) measures changes in magnetic fields on the surface of the scalp (ibid). Unlike the fMRI, magnetic fields are produced by changes in neural activity, which activate pyramidal cells of the cortex. Neural activity is not being affected by magnetic fields.
+	</section>
+
+	<section>
+		<h2>PET</h2>
+		The PET scan is a bit controversial than some of the other scans because it involves injecting a radioactive substance. Specifically, 2-deoxyglucose is injected in the carotid artery. This substance is used because of its similarity to glucose, a quality which neurons like very much. Neurons take 2-DG into their system, but cannot metobolise it. The result accumulates in active regions of the brain resulting in measurable levels of radioactivity.
+	</section>
+</body>
+</html>
