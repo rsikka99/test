@@ -8,16 +8,20 @@ h1 {
 	font-size: 175%;
 }
 
+.sectionArea {
+	padding: 15px;
+	float: left;
+}
 
 section { 
-	float: left;
 	border: 1px solid black;
    	padding: 15px;
-	height: 250px;
 	position: relative;
-   }
+	float: left;
+ 	height: 300px;
+}
 
-  h2 {
+h2 {
   	font-size: 125%;
   	position: absolute;
   	right: 0px;
@@ -58,7 +62,7 @@ section {
 	.col-md-6 {
 		width: 50%;
 	}
-	#sec3 {
+	#sec3Area {
 		width: 100%
 	}
 }
